@@ -20,7 +20,7 @@
     "react-router-dom": "^5.0.1",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-    "sequelize": "^5.9.4"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
